@@ -49,16 +49,16 @@ The Mobile application assumes the Navigation App.
   Set as follows.
 
   The figure below shows the focus at the current position.
-
-  ![pic1](../assets/proposals/NNNN-spec-add-ButtonName-to-use-hardware-buttons-with-shortcuts/NNNN-spec-add-ButtonName-to-use-hardware-buttons-with-shortcuts_01.PNG)
+  
+  ![pic1](./NNNN-spec-add-ButtonName-to-use-hardware-buttons-with-shortcuts_01.PNG)
 
   Scroll to the right from your current location.
 
-  ![pic2](../assets/proposals/NNNN-spec-add-ButtonName-to-use-hardware-buttons-with-shortcuts/NNNN-spec-add-ButtonName-to-use-hardware-buttons-with-shortcuts_02.PNG)
+  ![pic2](./NNNN-spec-add-ButtonName-to-use-hardware-buttons-with-shortcuts_02.PNG)
 
   After scrolling to the right, if you set the "destination setting", the blue mark is set as the destination.
 
-  ![pic3](../assets/proposals/NNNN-spec-add-ButtonName-to-use-hardware-buttons-with-shortcuts/NNNN-spec-add-ButtonName-to-use-hardware-buttons-with-shortcuts_03.PNG)
+  ![pic3](./NNNN-spec-add-ButtonName-to-use-hardware-buttons-with-shortcuts_03.PNG)
 
 ## Proposed solution
 
